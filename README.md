@@ -20,7 +20,7 @@ En función de nuestra búsqueda, observamos que San Francisco es la ciudad con 
 
 Vemos que adicionalmente hay 193 empresas que cumplen con nuestros dos principales requisitos, por lo que decidimos establecernos ahi.
 
-Decidimos establecer probisionalmente nuestra oficina en las oficinas de Hi 5, (55 Second Street , Suite 400, 94105, San Francisco, USA) en el edificio de KPMG y nos establecemos aquí provisionalmente para ver si podemos satisfacer los deseos de nuestros desarrolladores:
+Decidimos establecer provisionalmente nuestra oficina en las oficinas de Hi 5, (55 Second Street , Suite 400, 94105, San Francisco, USA) en el edificio de KPMG y nos establecemos aquí para ver si podemos satisfacer los deseos de nuestros desarrolladores:
 
 ## Peticiones:
 
